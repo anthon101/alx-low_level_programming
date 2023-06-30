@@ -7,7 +7,7 @@
  * @n: input value
  * Return: dest
  */
-char *(_strncpy, char *src, int n)
+char *_strncpy(char *des,char *src, int n)
 {
 	int j;
 
