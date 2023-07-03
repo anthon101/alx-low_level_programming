@@ -2,9 +2,10 @@
 
 /**
  * rev_string - reverses a string
- * @S:Input string
- * return:string in reverse
+ * @s: Input string
+ * return: string in reverse
  */
+
 void rev_string(char *s)
 {
 	char rev = s[0];
